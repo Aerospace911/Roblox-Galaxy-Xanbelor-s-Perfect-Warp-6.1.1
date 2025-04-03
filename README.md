@@ -1,6 +1,6 @@
 # Xanbelor's Roblox-Galaxy-Perfect-Warp
 
-Note: I did not create this, I am only sharing my copy before it was removed.
+## Note: I did not create this, I am only sharing my copy before it was removed.
 
 An AutoHotKey script that uses Galaxy's warp formula to automatically calculate and warp any distance with very good accuracy.
 Welcome to Perfect Warp v6.1.1! This script will take your input of warp distance and use the warp formula to automatically
